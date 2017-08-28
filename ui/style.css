@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
-    background-color: grey;
+    background-color: pink;
     margin-top: 75px;
 }
 div {
     border: 10px solid black;
     margin-top: 80px;
-    margin-bottom: 100px;
-    margin-right: 150px;
+    margin-bottom: 80px;
+    margin-right: 80px;
     margin-left: 80px;
    
 }
